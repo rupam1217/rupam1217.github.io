@@ -1,0 +1,40 @@
+body{
+	background-color: #F8E69D;
+}
+#nav{
+	padding-left: 40px;
+	background-color: powderblue;
+	height: 200px;
+}
+#CO{
+	background-color: #F2F1F1;
+	padding-left: 20px;
+}
+#O{
+	
+	padding-left: 20px;
+}
+img{
+	height: 120px;
+	width: 100px;
+	padding-bottom: 20px;
+}
+
+h3{
+	padding-left: 10px;
+	color: red;
+}
+p{
+	padding-left: 20px;
+}
+#footer {
+  text-align: center;
+  background: black;
+  color: grey;
+  height: 50px;
+
+}
+#total{
+	padding-left: 40px;
+	padding-right: 40px;
+}
